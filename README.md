@@ -5,7 +5,7 @@ start frontend = "npm run dev "
    (.env) file format
    
 {
-OPENAI_API_KEY= sk-you key ;
+OPENAI_API_KEY= sk-your key ;
 
 PORT=3001 
 
